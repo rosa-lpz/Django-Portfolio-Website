@@ -10,9 +10,9 @@ The fronted is based on the [Start Bootstrap Agency Template](https://startboots
 
 ## My website portfolio
 
-To view the website demo, please visit https://www.rosa-lopez.com/
-
-
+Please visit my portfolio website that is similar in design:
+https://www.rosa-lopez.com/
+ 
 
 
 
