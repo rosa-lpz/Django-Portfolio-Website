@@ -11,7 +11,7 @@ The fronted is based on the [Start Bootstrap Agency Template](https://startboots
 
 ![image2](example-images/2.png)
 
-![image4](example-images/4.png)
+![image4](example-images/3.png)
 
 ![image5](example-images/5.png)
 
