@@ -33,7 +33,7 @@ cd Django-Portfolio-Website
 
 
 
-Create a virtual environment and install the requirements from "requirements.txt" file
+Create a virtual environment and install the requirements listed in "requirements.txt" file
 
 ```
 pip install -r requirements.txt
