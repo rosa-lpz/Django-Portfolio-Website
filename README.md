@@ -9,11 +9,11 @@ The fronted is based on the [Start Bootstrap Agency Template](https://startboots
 
 ![image1](example-images/1.png)
 
-![image1](example-images/2.png)
+![image2](example-images/2.png)
 
-![image1](example-images/4.png)
+![image4](example-images/4.png)
 
-![image1](example-images/5.png)
+![image5](example-images/5.png)
 
 ## My website portfolio
 
