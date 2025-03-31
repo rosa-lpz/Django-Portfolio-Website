@@ -1,11 +1,11 @@
-# Django-Portfolio-Website
+# Django Portfolio Website
 
 This is a Python Django-based personal portfolio website.
 
 The fronted is based on the [Start Bootstrap Agency Template](https://startbootstrap.com/theme/agency) .
 
 
-## Images of the Django-Portfollio-Website project
+## Images of the Django Portfollio Website project
 
 ![image1](example-images/1.png)
 
